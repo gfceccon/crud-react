@@ -10,11 +10,15 @@
   "dependencies": {
     "@material-ui/core": "^3.6.2",
     "@material-ui/icons": "^3.0.1",
+    "cors": "^2.8.5",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-redux": "^6.0.0",
     "react-scripts": "2.1.1",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "sprintf-js": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
